@@ -1,0 +1,267 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="africa">
+        <item>Mount Kilimanjaro, with its three volcanic cones, "Kibo", "Mawenzi", and "Shira", is a dormant volcano in Tanzania. It is the highest mountain in Africa, about 4,900 metres from its base to 5,895 metres above sea level.</item>
+        <item>Kruger National Park, in northeastern South Africa, is one of Africa’s largest game reserves. Its high density of wild animals includes the Big 5: lions, leopards, rhinos, elephants and Buffalos. Hundreds of other mammals make their home here, as do diverse bird species such as vultures, eagles and storks. Mountains, bush plains and tropical forests are all part of the landscape.</item>
+        <item>Victoria Falls is a waterfall in southern Africa on the Zambezi River at the border between Zambia and Zimbabwe.</item>
+        <item>The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering what is now El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.</item>
+        <item>Sossusvlei is a salt and clay pan surrounded by high red dunes, located in the southern part of the Namib Desert, in the Namib-Naukluft National Park of Namibia.</item>
+        <item>The Majorelle Garden is a two and half acre botanical garden and artist landscape garden in Marrakech, Morocco</item>
+        <item>Diani Beach is a major beach resort on the Indian Ocean coast of Kenya. It is located 30 kilometres south of Mombasa, in the nearby Kwale County.</item>
+        <item>The Victoria and Alfred Waterfront in Cape Town is situated on the Atlantic shore, Table Bay Harbour, the City of Cape Town and Table Mountain. Adrian van der Vyver designed the complex.</item>
+        <item>The Cradle of Humankind is a Paleoanthropological site about 50 km northwest of Johannesburg, South Africa in the Gauteng province.</item>
+        <item>The Bazaruto Archipelago is a group of 6 islands off the coast of southern Mozambique. They lie within Bazaruto National Park and are known for their white-sand beaches. Bazaruto, with sand dunes, is the largest island. Coral reefs around Magaruque and Santa Carolina islands protect rare marine animals, like dugongs. The wetlands, forests and grasslands of Benguerra Island's interior are home to many bird species.</item>
+    </string-array>
+
+    <string-array name="asia">
+        <item>
+            The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz Mahal.
+        </item>
+        <item>
+            Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world, on a site measuring 162.6 hectares.  It was originally constructed as a Hindu temple of god Vishnu for the Khmer Empire, gradually transforming into a Buddhist temple towards the end of the 12th century.
+        </item>
+        <item>
+            The Burj Khalifa, known as the Burj Dubai before its inauguration, is a megatall skyscraper in Dubai, United Arab Emirates. With a total height of 829.8 m (2,722 ft) and a roof height (excluding antenna) of 828 m (2,717 ft), the Burj Khalifa has been the tallest structure in the world since its topping out in late 2008.
+        </item>
+        <item>
+            The Forbidden City is a palace complex in central Beijing, China. The former Chinese imperial palace from the Ming dynasty to the end of the Qing dynasty—the years 1420 to 1912, it now houses the Palace Museum. The Forbidden City served as the home of emperors and their households as well as the ceremonial and political center of Chinese government for almost 500 years.
+        </item>
+        <item>
+            Tanah Lot is a rock formation off the Indonesian island of Bali. It is home to the ancient Hindu pilgrimage temple Pura Tanah Lot, a popular tourist and cultural icon for photography. Tanah Lot means "Land [in the] Sea" in the Balinese language. Located in Tabanan, about 20 kilometres (12 mi) from Denpasar, the temple sits on a large offshore rock which has been shaped continuously over the years by the ocean tide.
+        </item>
+        <item>
+            The Lahori Gate is the main entrance to the Red Fort in Delhi. The fort is approached through a covered street flanked by arcaded apartments called the Chhatta Chowk. Situated on the western wall of the fort, the gate received its name because it led to the city of Lahore, in Punjab, Pakistan. The secondary entrance is the Delhi Gate. The gateway consists of three stories, each decorated with square, rectangular and cusped arched panels.
+        </item>
+        <item>
+            The Grand Palace is a complex of buildings at the heart of Bangkok, Thailand. The palace has been the official residence of the Kings of Siam since 1782. The king, his court and his royal government were based on the grounds of the palace until 1925.
+        </item>
+        <item>
+            Tokyo Disneyland is a 115-acre theme park at the Tokyo Disney Resort in Urayasu, Chiba Prefecture, Japan, near Tokyo. Its main gate is directly adjacent to both Maihama Station and Tokyo Disneyland Station. It was the first Disney park to be built outside the United States, and it opened on 15 April 1983.
+        </item>
+        <item>
+Fushimi Inari Taisha (伏見稲荷大社) is the head shrine of the god Inari, located in Fushimi Ward in Kyoto, Japan. The shrine sits at the base of a mountain also named Inari which is 233 metres (764 ft) above sea level, and includes trails up the mountain to many smaller shrines which span 4 kilometres (2.5 mi) and take approximately 2 hours to walk up.
+        </item>
+        <item>
+            The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+        </item>
+    </string-array>
+    <string-array name="australia">
+        <item>
+            The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.
+        </item>
+        <item>
+            The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district and the North Shore.
+        </item>
+        <item>
+            Darling Harbour is a harbour adjacent to the city centre of Sydney, New South Wales, Australia. It is also a large recreational and pedestrian precinct that is situated on western outskirts of the Sydney central business district.
+        </item>
+        <item>
+            The Twelve Apostles is a collection of limestone stacks off the shore of the Port Campbell National Park, by the Great Ocean Road in Victoria, Australia. Their proximity to one another has made the site a popular tourist attraction.
+        </item>
+        <item>
+            Royal Botanic Gardens Victoria are botanic gardens across two sites - Melbourne and Cranbourne. Melbourne Gardens was founded in 1846 when land was reserved on the south side of the Yarra River for a new botanic garden.
+        </item>
+        <item>
+            Kakadu National Park is an enormous, biodiverse nature reserve in Australia’s Northern Territory. With terrain encompassing wetlands, rivers and sandstone escarpments, it’s home to some 2,000 plant species and wildlife from saltwater crocodiles and flatback turtles to birds.
+        </item>
+        <item>
+            Taronga Zoo Sydney is the city zoo of Sydney, New South Wales, Australia and is located on the shores of Sydney Harbour in the suburb of Mosman. It was officially opened on 7 October 1916.
+        </item>
+        <item>
+            Noosa National Park is a national park in Queensland, Australia, 121 km north of Brisbane. It is situated near Noosa Heads between the Pacific Ocean and the Sunshine Coasts's northern area of urban development and extends southwards, past Lake Weyba to Coolum.
+        </item>
+        <item>
+            Kings Park is a 4.06-square-kilometre park located on the western edge of the central business district in Perth, Western Australia. The park is a mixture of grassed parkland, botanical gardens and natural bushland on Mount Eliza with two-thirds of the grounds conserved as native bushland.
+        </item>
+        <item>
+            Sydney Tower is Sydney's tallest structure and the second tallest observation tower in the Southern Hemisphere. The name Sydney Tower has become common in daily usage, however the tower has been known as the Sydney Tower Eye, AMP Tower, Westfield Centrepoint Tower, Centrepoint Tower or just Centrepoint.
+        </item>
+    </string-array>
+    <string-array name="europe">
+        <item>
+            The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.
+        </item>
+        <item>
+            The Louvre Palace is a former royal palace located on the Right Bank of the Seine in Paris, between the Tuileries Gardens and the church of Saint-Germain l'Auxerrois.
+        </item>
+        <item>
+            The Colosseum or Coliseum, also known as the Flavian Amphitheatre, is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine, tuff, and brick-faced concrete, it is the largest amphitheatre ever built.
+        </item>
+        <item>
+            The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon.
+        </item>
+        <item>
+            The Basílica i Temple Expiatori de la Sagrada Família is a large unfinished Roman Catholic church in Barcelona, designed by Catalan architect Antoni Gaudí.
+        </item>
+        <item>
+            The Papal Basilica of St. Peter in the Vatican, or simply St. Peter's Basilica, is an Italian Renaissance church in Vatican City, the papal enclave within the city of Rome.
+        </item>
+        <item>
+            The Sultan Ahmed Mosque or Sultan Ahmet Mosque (Turkish: Sultan Ahmet Camii) is a historic mosque located in Istanbul, Turkey.
+        </item>
+        <item>
+            Charles Bridge is a historic bridge that crosses the Vltava river in Prague, Czech Republic. Its construction started in 1357 under the auspices of King Charles IV, and finished in the beginning of the 15th century.
+        </item>
+        <item>
+            The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Pietro Bracci.
+        </item>
+        <item>
+            Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality.
+        </item>
+    </string-array>
+    <string-array name="namerica">
+        <item>
+            Yellowstone National Park is a nearly 3,500-sq.-mile wilderness recreation area atop a volcanic hot spot. Mostly in Wyoming, the park spreads into parts of Montana and Idaho too.
+        </item>
+        <item>
+            The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide strait connecting San Francisco Bay and the Pacific Ocean.
+        </item>
+        <item>
+
+The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States.
+        </item>
+        <item>
+            Walt Disney World, officially known as the Walt Disney World Resort, is an entertainment complex in Bay Lake and Lake Buena Vista, Florida, near Orlando and Kissimmee, Florida.
+        </item>
+        <item>
+            Horseshoe Falls, also known as Canadian Falls, is the largest of the three waterfalls which collectively form Niagara Falls on the Niagara River along the Canada–United States border.
+        </item>
+        <item>
+            The Canadian Rockies mountain range spans the provinces of British Columbia and Alberta. With jagged, ice-capped peaks, including towering Mt. Robson, it's a region of alpine lakes, diverse wildlife and outdoor recreation sites.
+        </item>
+        <item>
+            Banff National Park (/bænf/) is Canada's oldest national park and was established in 1885.
+        </item>
+        <item>
+            The Columbia River Gorge is a canyon of the Columbia River in the Pacific Northwest of the United States.
+        </item>
+        <item>
+            The Metropolitan Museum of Art of New York, colloquially "the Met", is the largest art museum in the United States.
+        </item>
+        <item>
+            The CN Tower is a 553.3 m-high concrete communications and observation tower in downtown Toronto, Ontario, Canada.
+        </item>
+    </string-array>
+    <string-array name="samerica">
+        <item>
+            Famed for its crescent-shaped beach, Copacabana is one of Rio’s liveliest neighborhoods, drawing a cross-section of locals and visitors to round-the-clock activity along its sands and mosaic-tiled promenade.
+        </item>
+        <item>
+            Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley.
+        </item>
+        <item>
+            The Iguazu Falls, Iguazú Falls, Iguassu Falls, or Iguaçu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. They are the largest waterfalls system in the world.
+        </item>
+        <item>
+            Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by the Brazilian engineer Heitor da Silva Costa, in collaboration with the French engineer Albert Caquot.
+        </item>
+        <item>
+            The Museum of Gold is a museum located in Bogotá, Colombia. It is one of the most visited touristic highlights in the country. The museum receives around 500,000 tourists per year.
+        </item>
+        <item>
+            Lençóis Maranhenses National Park is a protected area on Brazil’s north Atlantic coast. It’s known for its vast desert landscape of tall, white sand dunes and seasonal rainwater lagoons.
+        </item>
+        <item>
+            Sugarloaf Mountain is a peak situated in Rio de Janeiro, Brazil, at the mouth of Guanabara Bay on a peninsula that juts out into the Atlantic Ocean.
+        </item>
+        <item>
+            The Castillo San Felipe de Barajas is a fortress in the city of Cartagena, Colombia. The castle is located on the Hill of San Lázaro in a strategic location, dominating approaches to the city by land or sea.
+        </item>
+        <item>
+            Monserrate is a mountain that dominates the city center of Bogotá, the capital city of Colombia. It rises to 3,152 metres above the sea level, where there is a church with a shrine, devoted to El Señor Caído.
+        </item>
+        <item>
+            Torres del Paine National Park, in Chile’s Patagonia region, is known for its soaring mountains, bright blue icebergs that cleave from glaciers and golden pampas (grasslands) that shelter rare wildlife such as llama-like guanacos.
+        </item>
+    </string-array>
+
+    <string-array name="afrotitles">
+        <item> Mt. Kilimanjaro</item>
+        <item>Kruger National Park</item>
+        <item>Victoria Falls</item>
+        <item>The Great Pyramid of Giza</item>
+        <item>Sossusvlei</item>
+        <item>Majorelle Garden</item>
+        <item>Diani Beach</item>
+        <item>V and A WaterFront</item>
+        <item>Cradle of Humankind</item>
+        <item>Bazaruto Archipelago</item>
+    </string-array>
+
+    <string-array name="asiatitles">
+        <item>Taj Mahal</item>
+        <item>Angkor Wat</item>
+        <item>Burj Khalifa</item>
+        <item>Forbidden City</item>
+        <item>Tanah Lot</item>
+        <item>The Red Fort</item>
+        <item>Grand Palace</item>
+        <item>Tokyo Disneyland</item>
+        <item>Fushimi Inari-Taisha</item>
+        <item>The Great Wall of China</item>
+    </string-array>
+
+    <string-array name ="austitles">
+        <item>Sydney Opera House</item>
+        <item>Sydney Harbour Bridge</item>
+        <item>Darling Harbour</item>
+        <item>The Twelve Apostles</item>
+        <item>Royal Botanic Gardens</item>
+        <item>Kakadu National Park</item>
+        <item>Taronga Zoo</item>
+        <item>Noosa National Park</item>
+        <item>Kings Park and Botanical Garden</item>
+        <item>Sydney Tower Eye</item>
+    </string-array>
+
+    <string-array name ="eurotitles">
+        <item>Eiffel Tower</item>
+        <item>Louvre Museum</item>
+        <item>Colosseum</item>
+        <item>Acropolis of Athens</item>
+        <item>La Sagrada Familia</item>
+        <item>St. Peter's Basilica</item>
+        <item>The Blue Mosque</item>
+        <item>Charles Bridge</item>
+        <item>Trevi Fountain</item>
+        <item>Buckingham Palace</item>
+    </string-array>
+
+    <string-array name ="namertitles">
+        <item>Yellowstone National Park</item>
+        <item>The Golden Gate Bridge</item>
+        <item>Statue Of liberty</item>
+        <item>Walt Disney World Resort</item>
+        <item>Horseshoe Falls</item>
+        <item>Canadian Rockies</item>
+        <item>Banff National Park</item>
+        <item>Columbia River Gorge</item>
+        <item>The Metropolitan Museum of Art</item>
+        <item>CN Tower</item>
+    </string-array>
+
+    <string-array name ="samertitles">
+        <item>Copacabana</item>
+        <item>Machu Picchu</item>
+        <item>Iguazu Falls</item>
+        <item>Christ the Redeemer</item>
+        <item>Gold Museum</item>
+        <item>Lençóis Maranhenses National Park</item>
+        <item>SugarLoaf Mountain</item>
+        <item>Castillo San Felipe de Barajas</item>
+        <item>Monserrate</item>
+        <item>Torres del Paine National Park</item>
+    </string-array>
+
+
+
+
+
+    <string name="title_activity_asia_maps">Map</string>
+    <string name="title_activity_australia_maps">Map</string>
+    <string name="title_activity_europe_maps">Map</string>
+    <string name="title_activity_namerica_maps">Map</string>
+    <string name="title_activity_samerica_maps">Map</string>
+
+</resources>
